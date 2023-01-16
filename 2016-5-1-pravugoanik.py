@@ -7,3 +7,5 @@ obim = int(input())
 stranica1 = int(input())
 stranica2 = ( obim - 2 * stranica1 ) / 2
 print( stranica2 )
+
+# novi red
